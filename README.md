@@ -36,11 +36,5 @@ This project was completed as a part of **EEE-560 Mathematical Foundations of Ma
 - RNNs and LSTMs excel at handling short-term sequential data but face challenges with long-term sequences.
 - Advanced architectures like **ConvLSTM** and **TrajGRU** enhance both spatial and temporal modeling capabilities, making them well-suited for precipitation nowcasting.
 
-## 📥 How to Use  
-1. Review the **report** for a detailed theoretical and practical understanding of RNNs and LSTMs.
-2. Apply the concepts to implement or train similar architectures for time-series data analysis.
-3. Explore **ConvLSTM** and **TrajGRU** for tasks requiring both temporal and spatial modeling.
-
----
 
 This project contributes to the understanding of advanced neural network architectures and their application in real-world scenarios, particularly in meteorology.
